@@ -11,3 +11,6 @@ jsonpickle == 0.9.3
 
 #plugins.avm
 requests == 2.9.1
+
+#plugins.drexelundweiss
+pyserial
