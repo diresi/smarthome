@@ -68,12 +68,16 @@ class DuW():
                          smarthome.base_dir + '/plugins/drexelundweiss/x2.txt'}
         self.devl[11] = {'device': 'aerosmart mono', 'cmdpath':
                          smarthome.base_dir + '/plugins/drexelundweiss/aerosmart_mono.txt'}
+        self.devl[12] = {'device': 'vbox 120', 'cmdpath':
+                         smarthome.base_dir + '/plugins/drexelundweiss/vbox120.csv'}
         self.devl[13] = {'device': 'aerosilent bianco', 'cmdpath':
                          smarthome.base_dir + '/plugins/drexelundweiss/aerosilent_bianco.txt'}
         self.devl[14] = {'device': 'x2 plus', 'cmdpath':
                          smarthome.base_dir + '/plugins/drexelundweiss/x2_plus.txt'}
         self.devl[15] = {'device': 'aerosilent business', 'cmdpath':
                          smarthome.base_dir + '/plugins/drexelundweiss/aerosilent_business.txt'}
+        self.devl[16] = {'device': 'zentralgeraet', 'cmdpath':
+                         smarthome.base_dir + '/plugins/drexelundweiss/zentralgeraet.csv'}
         self.devl[17] = {'device': 'aerosilent stratos', 'cmdpath':
                          smarthome.base_dir + '/plugins/drexelundweiss/aerosilent_stratos.txt'}
 

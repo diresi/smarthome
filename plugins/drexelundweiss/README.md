@@ -22,6 +22,8 @@ The plugin detects the connected device type automatically:
    * termosmart sc
    * X²
    * X² Plus
+   * vbox 120
+   * zentralgerät (well, thats the name in the ...Modbus_Parameter_DE.pdf)
 
 
 Configuration
