@@ -2,6 +2,8 @@
 *.jar
 *.tgz
 *.zip
+*.swp
+*.swo
 /visu
 /doc/build
 /doc/sphinx_bootstrap_theme
